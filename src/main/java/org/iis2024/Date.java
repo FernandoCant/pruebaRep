@@ -40,7 +40,6 @@ public class Date {
 
   /**
    * Retrieves the year component of this date.
-   *
    * @return The year (within the valid range of 1900 to 2050).
    */
   public int getYear() {
